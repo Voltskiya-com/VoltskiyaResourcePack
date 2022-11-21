@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:models/voltskiya/items/ethiril_trident"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 4000
+      },
+      "model": "voltskiya/items/ethiril_trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4002
+      },
+      "model": "voltskiya/items/ethiril_trident"
+    }
+  ]
+}

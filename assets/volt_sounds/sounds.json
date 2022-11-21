@@ -1,0 +1,55 @@
+{
+  "music.boss.boss1": {
+    "replace": true,
+    "subtitle": "epic_boss_music",
+    "sounds": [
+      {
+        "name": "volt_sounds:music/boss/boss1",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": true,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "music.biomes.voidmus": {
+    "replace": true,
+    "subtitle": "voidmus_music",
+    "sounds": [
+      {
+        "name": "volt_sounds:music/biomes/voidmus",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": true,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  },
+  "music.biomes.deepnest": {
+    "replace": true,
+    "subtitle": "deepnest_music",
+    "sounds": [
+      {
+        "name": "volt_sounds:music/biomes/deepnest1",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": true,
+        "attenuation_distance": 16,
+        "preload": true
+      },  {
+        "name": "volt_sounds:music/biomes/deepnest2",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": true,
+        "attenuation_distance": 16,
+        "preload": true
+      }
+    ]
+  }
+}

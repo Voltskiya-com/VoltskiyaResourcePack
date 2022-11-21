@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/stone_button_inventory",
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 58001 },
+      "model": "voltskiya/mob/hostile/tropicalshark"
+    }
+  ]
+}

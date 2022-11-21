@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "voltskiya/block/black",
+    "top": "voltskiya/block/black",
+    "side": "voltskiya/block/black"
+  }
+}

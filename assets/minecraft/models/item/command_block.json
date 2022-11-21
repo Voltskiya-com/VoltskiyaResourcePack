@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/command_block",
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "voltskiya/items/blood_catalyst"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "voltskiya/items/ice_catalyst"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "voltskiya/items/oozing_fermented_spider_eye"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "voltskiya/items/ethiril_ingot"
+    }
+  ]
+}
