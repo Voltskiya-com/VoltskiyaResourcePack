@@ -1,5 +1,5 @@
 {"parent": "item/generated",
 	"textures": {
-		"layer0": "voltskiya/item/oil_bucket"
+		"layer0": "minecraft:item/voltskiya/item/oil_bucket"
 	}
 }

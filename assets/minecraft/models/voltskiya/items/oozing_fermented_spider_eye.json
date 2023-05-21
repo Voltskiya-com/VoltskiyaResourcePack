@@ -1,5 +1,5 @@
 {"parent": "item/generated",
 	"textures": {
-		"layer0": "voltskiya/item/oozing_fermented_spider_eye"
+		"layer0": "minecraft:item/voltskiya/item/oozing_fermented_spider_eye"
 	}
 }

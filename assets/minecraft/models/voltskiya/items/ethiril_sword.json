@@ -4,7 +4,7 @@
         "quartz_block_top": "minecraft:block/quartz_block_top",
         "prismarine_bricks": "minecraft:block/prismarine_bricks",
         "gold_block": "minecraft:block/gold_block",
-        "ethiril": "voltskiya/item/ethiril"
+        "ethiril": "minecraft:item/voltskiya/item/ethiril"
     },
     "display": {
         "gui": {

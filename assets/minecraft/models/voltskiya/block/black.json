@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "voltskiya/block/black"
+    "all": "minecraft:item/voltskiya/block/black"
   }
 }
