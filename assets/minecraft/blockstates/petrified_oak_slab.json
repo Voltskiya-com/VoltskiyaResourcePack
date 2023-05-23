@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "minecraft:block/oak_slab"
+      "model": "minecraft:block/petrified_oak_slab"
     },
     "type=double": {
       "model": "voltskiya/block/black"
     },
     "type=top": {
-      "model": "minecraft:block/oak_slab_top"
+      "model": "minecraft:block/petrified_oak_slab_top"
     }
   }
 }
