@@ -1,0 +1,95 @@
+{
+    "__comment1__": "the list below is merged with the default minecraft font (hence default.json; there's an alt.json for standard galactic)",
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/digits/space_nosplit.png",
+
+            "height": -4,
+            "ascent": -32768,
+
+            "chars": ["\uF001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/digits/digits.png",
+
+            "height": 7,
+            "ascent": -22,
+
+            "chars": ["\uF010\uF011\uF012\uF013\uF014\uF015\uF016\uF017\uF018\uF019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/armor/armor_full.png",
+
+            "height": 7,
+            "ascent": -15,
+
+            "chars": ["\uF002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/thirst/thirst_full.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/thirst/thirst_half.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/thirst/thirst_empty.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/stamina/stamina_full.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/stamina/stamina_half.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/stamina/stamina_empty.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:voltskiya/gui/stamina/stamina_empty.png",
+
+            "height": 9,
+            "ascent": -15,
+
+            "chars": ["\uF008"]
+        }
+    ]
+}
