@@ -83,13 +83,11 @@
             "chars": ["\uF008"]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:voltskiya/gui/stamina/stamina_empty.png",
-
-            "height": 9,
-            "ascent": -15,
-
-            "chars": ["\uF008"]
+            "type": "ttf",
+            "file": "minecraft:voltskiya/symbols/voltskiya.ttf",
+            "size": 20.0,
+            "oversample": 4.0,
+            "shift": [0, 0]
         }
     ]
 }
